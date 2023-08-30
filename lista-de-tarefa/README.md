@@ -12,6 +12,6 @@ conhecimentos que utilizei;
 - CSS
 - JAVASCRIPT
 - REACT
-- GIT para fazer o versionamento.
+- GIT para fazer o versionamento ao GitHub
 
 
